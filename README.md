@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ![Kissingfire123's github stats](https://github-readme-stats.vercel.app/api?username=kissingfire123&show_icons=true%theme=dark&count_private=true&hide=stars&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissingfire123)](https://github.com/kissingfire123)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kissingfire123&column=8)](https://github.com/kissingfire123)
